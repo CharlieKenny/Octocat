@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+git branches are seperate line of code that run in parallel to the main development branch. The act as a new working directory without the history of the main branch.
